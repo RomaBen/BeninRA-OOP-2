@@ -1,4 +1,4 @@
-package ru.netology.apipractice;
+package ru.netology.api;
 
 public class Post {
     String name;
